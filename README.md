@@ -1,5 +1,8 @@
 # Available parking space web application
 
+![Image of the frontpage](frontpage.jpg)
+![Image of the second page](secondpage.jpg)
+
 ## General information
 This repository contains source code for a web application that uses Digitransit API map tiles and Oulunliikenne API information about parking garages/open space parking and their location, capacity and available spaces.
 Leaflet is used to present the map tiles in interactive way on the webpage.
