@@ -1,0 +1,22 @@
+{
+  "name": "parkingspacewebapplication",
+  "version": "1.0.0",
+  "description": "testing purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnasanen24/ParkingSpaceWebApplication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnasanen24/ParkingSpaceWebApplication/issues"
+  },
+  "homepage": "https://github.com/tnasanen24/ParkingSpaceWebApplication#readme",
+  "dependencies": {
+    "jquery": "^1.12.4"
+  }
+}
