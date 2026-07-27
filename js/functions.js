@@ -1,4 +1,4 @@
-AWS_SECRET_ACCESS_KEY_FAKE = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+AWS_SECRET_ACCESS_KEY_FAKE = "gfd80gfd80fd8gdug00u80dfgjjf"
 
 const button = document.getElementById('myButton');
 var leafMap = L.map('map', {
