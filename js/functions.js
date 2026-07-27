@@ -1,4 +1,4 @@
-DB_PASSWORD = "gfd80gfd80"
+AWS_SECRET_ACCESS_KEY = "SomeSecretKey"
 
 const button = document.getElementById('myButton');
 var leafMap = L.map('map', {
